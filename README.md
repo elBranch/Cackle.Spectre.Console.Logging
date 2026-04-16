@@ -1,0 +1,1 @@
+# Cackle.Spectre.Console.Logging
